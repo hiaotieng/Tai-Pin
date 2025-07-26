@@ -144,7 +144,7 @@ Shift
 		<td>1</td>
 		<td>¹</td>
 		<td>00B9</td>
-		<td colspan="2" rowspan="9">上標数字</td>
+		<td colspan="2" rowspan="9">上標數字</td>
 	</tr>
 	<tr>
 		<td>2</td>
