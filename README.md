@@ -202,6 +202,6 @@ Shift
 	</tr>
 </table>
 
-## 鍵盤(keyboard)
-若有任何問題，或要合作邀約、轉載內容等協議，請洽hiaotieng[at]gmail.com。
+## 聯絡方式
+若有任何問題，或要合作邀約、轉載內容等協議，請洽hiaotieng[at]gmail.com。<br>
 洽詢時，請將[at]替換為@。本人誠摯歡迎您來信洽詢！
