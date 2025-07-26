@@ -13,22 +13,22 @@ Shift
 <table>
 	<tr>
 		<td colspan="2"></td>
-		<td colspan="2">小寫</td>
-		<td colspan="2">大寫</td>
-	</tr>
-	<tr>
-		<td>日文</td>
-		<td>入力キー</td>
-		<td>出力コード</td>
-		<td rowspan="4">Unicode</td>
-		<td>出力コード</td>
-		<td rowspan="4">Unicode</td>
+		<td colspan="2">小寫(小文字)</td>
+		<td colspan="2">大寫(大文字)</td>
 	</tr>
 	<tr>
 		<td>中文</td>
 		<td>輸入鍵</td>
 		<td>輸出碼</td>
+		<td rowspan="4">Unicode</td>
 		<td>輸出碼</td>
+		<td rowspan="4">Unicode</td>
+	</tr>
+	<tr>
+		<td>日文</td>
+		<td>入力キー</td>
+		<td>出力コード</td>
+		<td>出力コード</td>
 	</tr>
 	<tr>
 		<td>英文</td>
