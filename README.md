@@ -4,7 +4,7 @@
 
 ## 鍵盤
 Unshifted
-<img width="1450" height="503" alt="鍵盤1" src="https://github.com/user-attachments/assets/a3874b73-077c-47bd-aa02-0d61dd9ea415" />
+<img width="1442" height="488" alt="鍵盤1" src="https://github.com/user-attachments/assets/4ca4a08c-20be-49c5-95b3-ec0d2adf0d33" />
 
 Shift
-<img width="1447" height="492" alt="鍵盤2" src="https://github.com/user-attachments/assets/2a3c3c88-e156-41ec-bafb-434c3deef7a4" />
+<img width="1439" height="484" alt="鍵盤2" src="https://github.com/user-attachments/assets/5c5bacbf-9d87-4ff2-b194-fd840269f310" />
