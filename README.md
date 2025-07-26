@@ -12,9 +12,9 @@ Shift
 ## 字母的添加
 <table>
 	<tr>
-		<td colspan="2"></td>
-		<td colspan="2">小寫</td>
-		<td colspan="2">大寫</td>
+		<td></td>
+		<td>小寫</td>
+		<td>大寫</td>
 	</tr>
 	<tr>
 		<td>日文</td>
@@ -47,7 +47,7 @@ Shift
 		<td>v</td>
 		<td>̊</td>
 		<td>030A</td>
-		<td colspan="2" rowspan="3"><h1 id="firstHeading" lang="zh-Hant-TW" dir="ltr">附加符號</h1></td>
+		<td>附加符號</td>
 	</tr>
 	<tr>
 		<td>鼻化韻</td>
@@ -117,7 +117,7 @@ Shift
 		<td>1</td>
 		<td>˩</td>
 		<td>######</td>
-		<td colspan="2" rowspan="5">五度指曲線調值標記法</td>
+		<td rowspan="5">五度指曲線調值標記法</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -144,7 +144,7 @@ Shift
 		<td>1</td>
 		<td>¹</td>
 		<td>00B9</td>
-		<td colspan="2" rowspan="9">上標数字</td>
+		<td rowspan="9">上標数字</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -191,13 +191,12 @@ Shift
 		<td>-</td>
 		<td>⁻</td>
 		<td>207B</td>
-		<td colspan="2">上標符號</td>
+		<td>上標符號</td>
 	</tr>
 	<tr>
 		<td>濁聲母J的小寫</td>
 		<td>j</td>
 		<td>ȷ</td>
 		<td>237</td>
-		<td colspan="2">推薦</td>
+		<td>推薦</td>
 	</tr>
-</table>
