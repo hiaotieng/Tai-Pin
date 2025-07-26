@@ -53,28 +53,28 @@ Shift
 		<td>鼻化韻</td>
 		<td>f</td>
 		<td>̃</td>
-		<td>303</td>
+		<td>0303</td>
 	</tr>
 	<tr>
 		<td>閏音</td>
 		<td>r</td>
 		<td>̈</td>
-		<td>308</td>
+		<td>0308</td>
 	</tr>
 	<tr>
 		<td rowspan="3">韻母</td>
 		<td>o</td>
 		<td>ɔ</td>
-		<td>254</td>
+		<td>0254</td>
 		<td>Ɔ</td>
-		<td>186</td>
+		<td>0186</td>
 	</tr>
 	<tr>
 		<td>e</td>
 		<td>ɛ</td>
 		<td>025B</td>
 		<td>Ɛ</td>
-		<td>190</td>
+		<td>0190</td>
 	</tr>
 	<tr>
 		<td>u</td>
@@ -197,7 +197,7 @@ Shift
 		<td>濁聲母J的小寫</td>
 		<td>j</td>
 		<td>ȷ</td>
-		<td>237</td>
+		<td>0237</td>
 		<td colspan="2">推薦</td>
 	</tr>
 </table>
