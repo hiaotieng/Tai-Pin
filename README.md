@@ -47,7 +47,7 @@ Shift
 		<td>v</td>
 		<td>̊</td>
 		<td>030A</td>
-		<td>附加符號</td>
+		<td colspan="2" rowspan="3">附加符號</h1></td>
 	</tr>
 	<tr>
 		<td>鼻化韻</td>
@@ -116,28 +116,28 @@ Shift
 		<td rowspan="5">調符(調值)</td>
 		<td>1</td>
 		<td>˩</td>
-		<td>######</td>
-		<td colspan="2" rowspan="5">五度指曲線調值標記法</td>
+		<td>02E9</td>
+		<td colspan="2" rowspan="5">五度制曲線調值標記法</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>˨</td>
-		<td>######</td>
+		<td>02E8</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>˧</td>
-		<td>######</td>
+		<td>02E7</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>˦</td>
-		<td>######</td>
+		<td>02E6</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>˥</td>
-		<td>######</td>
+		<td>02E5</td>
 	</tr>
 	<tr>
 		<td rowspan="9">調號</td>
@@ -200,3 +200,4 @@ Shift
 		<td>237</td>
 		<td colspan="2">推薦</td>
 	</tr>
+</table>
