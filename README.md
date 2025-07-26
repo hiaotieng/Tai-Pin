@@ -9,7 +9,7 @@ Unshifted
 Shift
 <img width="1439" height="484" alt="鍵盤2" src="https://github.com/user-attachments/assets/5c5bacbf-9d87-4ff2-b194-fd840269f310" />
 
-## 字母的添加
+## 添加的字母
 <table>
 	<tr>
 		<td colspan="2"></td>
