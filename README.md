@@ -43,7 +43,7 @@ Shift
 		<td>「単語(D)」</td>
 	</tr>
 	<tr>
-		<td>濁声母</td>
+		<td>濁聲母</td>
 		<td>v</td>
 		<td>̊</td>
 		<td>030A</td>
