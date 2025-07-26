@@ -13,11 +13,11 @@ Shift
 <table>
 	<tr>
 		<td colspan="2"></td>
-		<td colspan="2">小文字(小寫)</td>
-		<td colspan="2">大文字(大寫)</td>
+		<td colspan="2">小寫</td>
+		<td colspan="2">大寫</td>
 	</tr>
 	<tr>
-		<td>日本語</td>
+		<td>日文</td>
 		<td>入力キー</td>
 		<td>出力コード</td>
 		<td rowspan="4">Unicode</td>
@@ -25,43 +25,41 @@ Shift
 		<td rowspan="4">Unicode</td>
 	</tr>
 	<tr>
-		<td>華語</td>
+		<td>中文</td>
 		<td>輸入鍵</td>
 		<td>輸出碼</td>
 		<td>輸出碼</td>
 	</tr>
 	<tr>
-		<td>英語</td>
+		<td>英文</td>
 		<td>input key</td>
 		<td>output code</td>
 		<td>output code</td>
 	</tr>
 	<tr>
-		<td>MS日本語入力</td>
+		<td>MS日文輸入法</td>
 		<td>「よみ(R)」</td>
 		<td>「単語(D)」</td>
 		<td>「単語(D)」</td>
 	</tr>
 	<tr>
-		<td>濁声母の記号</td>
+		<td>濁声母</td>
 		<td>v</td>
 		<td>̊</td>
 		<td>030A</td>
-		<td colspan="2">合成可能な発音区別符号</td>
+		<td colspan="2" rowspan="3"><h1 id="firstHeading" lang="zh-Hant-TW" dir="ltr">附加符號</h1></td>
 	</tr>
 	<tr>
-		<td>鼻化韻の記号</td>
+		<td>鼻化韻</td>
 		<td>f</td>
 		<td>̃</td>
 		<td>303</td>
-		<td colspan="2">(Combining</td>
 	</tr>
 	<tr>
-		<td>閏音の記号</td>
+		<td>閏音</td>
 		<td>r</td>
 		<td>̈</td>
 		<td>308</td>
-		<td colspan="2">Diacritical Marks)</td>
 	</tr>
 	<tr>
 		<td rowspan="3">韻母</td>
@@ -86,7 +84,7 @@ Shift
 		<td>019C</td>
 	</tr>
 	<tr>
-		<td rowspan="4">入声韻尾</td>
+		<td rowspan="4">入聲韻尾</td>
 		<td>b</td>
 		<td>ᵇ</td>
 		<td>1D47</td>
@@ -115,38 +113,38 @@ Shift
 		<td>1D34</td>
 	</tr>
 	<tr>
-		<td rowspan="5">声調符号(調値)</td>
+		<td rowspan="5">調符(調值)</td>
 		<td>1</td>
 		<td>˩</td>
-		<td>2.00E+09</td>
-		<td colspan="2" rowspan="5">五度式曲線調値表記法</td>
+		<td>######</td>
+		<td colspan="2" rowspan="5">五度指曲線調值標記法</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>˨</td>
-		<td>2.00E+08</td>
+		<td>######</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>˧</td>
-		<td>2.00E+07</td>
+		<td>######</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>˦</td>
-		<td>2.00E+06</td>
+		<td>######</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>˥</td>
-		<td>2.00E+05</td>
+		<td>######</td>
 	</tr>
 	<tr>
-		<td rowspan="9">声調番号</td>
+		<td rowspan="9">調號</td>
 		<td>1</td>
 		<td>¹</td>
 		<td>00B9</td>
-		<td colspan="2" rowspan="9">上付き数字</td>
+		<td colspan="2" rowspan="9">上標数字</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -189,18 +187,17 @@ Shift
 		<td>2079</td>
 	</tr>
 	<tr>
-		<td>変調記号</td>
+		<td>變調</td>
 		<td>-</td>
 		<td>⁻</td>
 		<td>207B</td>
-		<td colspan="2">上付き記号</td>
+		<td colspan="2">上標符號</td>
 	</tr>
 	<tr>
-		<td>濁声母のJの小文字</td>
+		<td>濁聲母J的小寫</td>
 		<td>j</td>
 		<td>ȷ</td>
 		<td>237</td>
-		<td colspan="2">推奨</td>
+		<td colspan="2">推薦</td>
 	</tr>
 </table>
-
