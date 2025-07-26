@@ -1,8 +1,8 @@
-對外台語教學拼音(台語拼音,台拼)
+對外台語教學拼音(台語拼音,台拼 Tai-Pin)
 ======
 本標音法為方便已具有漢語拼音能力的學習者入門，伊藤覺本人所設計的具備漢語拼音及(包含台語的)注音符號兩者間的相容性。
 
-## 鍵盤
+## 鍵盤(keyboard)
 Unshifted
 <img width="1442" height="488" alt="鍵盤1" src="https://github.com/user-attachments/assets/4ca4a08c-20be-49c5-95b3-ec0d2adf0d33" />
 
