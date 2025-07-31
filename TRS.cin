@@ -1,9 +1,8 @@
 #台語拼音輸入法
 #伊藤覺 編製
-%ename Taiwanese:en;台语注音:zh_CN;臺語注音:zh;
+%ename TRS:en;台语拼音:zh_CN;台語拼音:zh;
 %cname 台語拼音
-%selkey 123456789
-%endkey 690-=
+%selkey 123456789；
 %keyname begin
 , ,
 . .
@@ -80,17 +79,17 @@ z z
 9 ⁹
 a a
 b b
-b ᵇb
+b ᵇ
 c c
 d d
-d ᵈd
+d ᵈ
 e e
 e ɛ
 f ̃
 g g
-g ᵍg
+g ᵍ
 h h
-h ʰh
+h ʰ
 i i
 j j
 j ȷ
